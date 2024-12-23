@@ -32,7 +32,7 @@ The application is implemented as a Streamlit web app. Users can upload an image
 
 Here is an example of how the application appears:
 
-![Fashion Recommendation System](images/fashion-recommendation-example.jpeg)
+![Fashion Recommendation System](images/image.png)
 
 ### Steps:
 1. Start the application using Streamlit.
