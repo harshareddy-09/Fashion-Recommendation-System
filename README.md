@@ -7,6 +7,12 @@ This project implements a Fashion Recommendation System that identifies and reco
 The system is built using a pre-trained convolutional neural network (CNN) model, `ResNet50`, to extract high-level features from images. These features are then used to find similar images based on their visual characteristics. A k-Nearest Neighbors (k-NN) model is employed for the similarity search.
 
 ---
+## Dataset
+
+The dataset used for this project contains a collection of fashion product images. It can be downloaded from the following link:  
+[Download Dataset](https://www.kaggle.com/datasets/paramaggarwal/fashion-product-images-small)
+
+---
 
 ## Workflow
 
