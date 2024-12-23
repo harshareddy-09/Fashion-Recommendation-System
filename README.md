@@ -32,7 +32,7 @@ The application is implemented as a Streamlit web app. Users can upload an image
 
 Here is an example of how the application appears:
 
-![Fashion Recommendation System]("C:\Users\thars\OneDrive\Desktop\fashion recom-sys\myntradataset\SS of Web app.jpeg")
+![SS of Web app](https://github.com/user-attachments/assets/8d81e1c3-8464-45e2-b1bc-f4421bc7962e)
 
 ### Steps:
 1. Start the application using Streamlit.
